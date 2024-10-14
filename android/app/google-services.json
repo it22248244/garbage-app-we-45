@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "36681668369",
+    "firebase_url": "https://flutter-taxi-driver-with-admin-default-rtdb.firebaseio.com",
+    "project_id": "flutter-taxi-driver-with-admin",
+    "storage_bucket": "flutter-taxi-driver-with-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36681668369:android:2cbb38753da539fac91eb0",
+        "android_client_info": {
+          "package_name": "com.thevin.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wGzKGhDpO0I13EYCVfDdC42UuCmLGdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36681668369:android:22be1d209735761dc91eb0",
+        "android_client_info": {
+          "package_name": "com.thevin.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wGzKGhDpO0I13EYCVfDdC42UuCmLGdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
