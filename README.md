@@ -1,6 +1,6 @@
 # garbage_app
 
-this is taxi driver app
+this is a SMART WASTE MANAGEMENT SYSTEM developed by SE-S1-WE-45-2024-JUNE batch.
 
 ## Getting Started
 
